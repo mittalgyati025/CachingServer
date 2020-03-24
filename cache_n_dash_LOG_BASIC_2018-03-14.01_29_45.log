@@ -1,0 +1,11 @@
+2018-03-14 01:29:46,029 - cache_server.py:161 - INFO - Starting the cache in BASIC mode
+2018-03-14 01:29:46,029 - cache_server.py:170 - INFO - Starting the Cache Manager
+2018-03-14 01:29:46,030 - CacheManager.py:19 - INFO - harssh Initializing the Cache Manager
+2018-03-14 01:29:46,030 - PriorityCache.py:49 - INFO - before Initialed the priority cache
+2018-03-14 01:29:46,030 - PriorityCache.py:64 - INFO - after Initialed the priority cache
+2018-03-14 01:29:46,030 - CacheManager.py:21 - INFO - Initialed the Cache Manager
+2018-03-14 01:29:46,031 - CacheManager.py:53 - INFO - Current Thread: Started thread. Stop value = False
+2018-03-14 01:29:46,031 - CacheManager.py:28 - INFO - Started the Current fetch thread
+2018-03-14 01:29:46,032 - CacheManager.py:32 - INFO - Started the Preftech thread
+2018-03-14 01:29:46,035 - cache_server.py:176 - INFO - Cache-Server listening on localhost, port:8006 - press ctrl-c to stop
+2018-03-14 01:29:48,682 - cache_server.py:180 - INFO - Terminating the Cache Manager
